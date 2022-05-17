@@ -2,8 +2,15 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-color: coral;
+  background-image:url(https://www.rd.com/wp-content/uploads/2020/01/GettyImages-1077486670-e1580239260791-scaled.jpg?resize=768,534);
 }
 
 a {
   color: #00B7FF;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: #FAEBD7;
 }
